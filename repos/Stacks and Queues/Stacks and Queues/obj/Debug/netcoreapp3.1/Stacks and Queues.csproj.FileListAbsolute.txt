@@ -1,0 +1,13 @@
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.exe
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.deps.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.runtimeconfig.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.runtimeconfig.dev.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.csprojAssemblyReference.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.csproj.CoreCompileInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.AssemblyInfoInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.AssemblyInfo.cs
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.genruntimeconfig.cache

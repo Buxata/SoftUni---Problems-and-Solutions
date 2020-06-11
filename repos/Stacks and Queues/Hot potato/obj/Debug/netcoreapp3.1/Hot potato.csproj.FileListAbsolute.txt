@@ -1,0 +1,13 @@
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\bin\Debug\netcoreapp3.1\Hot potato.exe
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\bin\Debug\netcoreapp3.1\Hot potato.deps.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\bin\Debug\netcoreapp3.1\Hot potato.runtimeconfig.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\bin\Debug\netcoreapp3.1\Hot potato.runtimeconfig.dev.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\bin\Debug\netcoreapp3.1\Hot potato.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\bin\Debug\netcoreapp3.1\Hot potato.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.csprojAssemblyReference.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.csproj.CoreCompileInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.AssemblyInfoInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.AssemblyInfo.cs
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Hot potato\obj\Debug\netcoreapp3.1\Hot potato.genruntimeconfig.cache

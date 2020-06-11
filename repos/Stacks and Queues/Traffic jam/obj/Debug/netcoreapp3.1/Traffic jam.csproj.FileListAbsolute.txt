@@ -1,0 +1,12 @@
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\bin\Debug\netcoreapp3.1\Traffic jam.exe
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\bin\Debug\netcoreapp3.1\Traffic jam.deps.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\bin\Debug\netcoreapp3.1\Traffic jam.runtimeconfig.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\bin\Debug\netcoreapp3.1\Traffic jam.runtimeconfig.dev.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\bin\Debug\netcoreapp3.1\Traffic jam.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\bin\Debug\netcoreapp3.1\Traffic jam.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\obj\Debug\netcoreapp3.1\Traffic jam.csproj.CoreCompileInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\obj\Debug\netcoreapp3.1\Traffic jam.AssemblyInfoInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\obj\Debug\netcoreapp3.1\Traffic jam.AssemblyInfo.cs
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\obj\Debug\netcoreapp3.1\Traffic jam.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\obj\Debug\netcoreapp3.1\Traffic jam.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Traffic jam\obj\Debug\netcoreapp3.1\Traffic jam.genruntimeconfig.cache

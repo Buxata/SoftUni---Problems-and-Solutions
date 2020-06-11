@@ -1,0 +1,13 @@
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\bin\Debug\netcoreapp3.1\Print even numbers.exe
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\bin\Debug\netcoreapp3.1\Print even numbers.deps.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\bin\Debug\netcoreapp3.1\Print even numbers.runtimeconfig.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\bin\Debug\netcoreapp3.1\Print even numbers.runtimeconfig.dev.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\bin\Debug\netcoreapp3.1\Print even numbers.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\bin\Debug\netcoreapp3.1\Print even numbers.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.csprojAssemblyReference.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.csproj.CoreCompileInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.AssemblyInfoInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.AssemblyInfo.cs
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\Print even numbers\obj\Debug\netcoreapp3.1\Print even numbers.genruntimeconfig.cache

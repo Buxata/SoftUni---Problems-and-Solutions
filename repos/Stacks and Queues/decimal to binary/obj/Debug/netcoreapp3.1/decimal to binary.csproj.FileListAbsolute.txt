@@ -1,0 +1,12 @@
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.exe
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.deps.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.runtimeconfig.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.runtimeconfig.dev.json
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\bin\Debug\netcoreapp3.1\decimal to binary.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.csproj.CoreCompileInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.AssemblyInfoInputs.cache
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.AssemblyInfo.cs
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.dll
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.pdb
+C:\Users\BuxaTa\source\repos\Stacks and Queues\decimal to binary\obj\Debug\netcoreapp3.1\decimal to binary.genruntimeconfig.cache
