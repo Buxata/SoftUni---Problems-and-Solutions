@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-namespace Square_with_Minimum_Sum
+namespace Square_with_Maximum_Sum
 {
     class Program
     {

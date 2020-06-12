@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Sum Matrix Columns\\Sum Matrix Columns.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\2. Sum Matrix Columns\\Sum Matrix Columns.csproj": {}
   },
   "projects": {
-    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Sum Matrix Columns\\Sum Matrix Columns.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\2. Sum Matrix Columns\\Sum Matrix Columns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Sum Matrix Columns\\Sum Matrix Columns.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\2. Sum Matrix Columns\\Sum Matrix Columns.csproj",
         "projectName": "Sum Matrix Columns",
-        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Sum Matrix Columns\\Sum Matrix Columns.csproj",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\2. Sum Matrix Columns\\Sum Matrix Columns.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Sum Matrix Columns\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\2. Sum Matrix Columns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

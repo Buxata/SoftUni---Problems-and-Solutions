@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Square with Minimum Sum\\Square with Minimum Sum.csproj",
-      "projectName": "Square with Minimum Sum",
-      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Square with Minimum Sum\\Square with Minimum Sum.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\Square with Maximum Sum.csproj",
+      "projectName": "Square with Maximum Sum",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\Square with Maximum Sum.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Square with Minimum Sum\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Symbol in a Matrix\\Symbol in a Matrix.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\4. Symbol in a Matrix\\Symbol in a Matrix.csproj": {}
   },
   "projects": {
-    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Symbol in a Matrix\\Symbol in a Matrix.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\4. Symbol in a Matrix\\Symbol in a Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Symbol in a Matrix\\Symbol in a Matrix.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\4. Symbol in a Matrix\\Symbol in a Matrix.csproj",
         "projectName": "Symbol in a Matrix",
-        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Symbol in a Matrix\\Symbol in a Matrix.csproj",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\4. Symbol in a Matrix\\Symbol in a Matrix.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Symbol in a Matrix\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\4. Symbol in a Matrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

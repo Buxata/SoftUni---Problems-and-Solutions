@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\1 Sum Matrix Elements\\Sum Matrix Elements.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\1. Sum Matrix Elements\\Sum Matrix Elements.csproj",
       "projectName": "Sum Matrix Elements",
-      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\1 Sum Matrix Elements\\Sum Matrix Elements.csproj",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\1. Sum Matrix Elements\\Sum Matrix Elements.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\1 Sum Matrix Elements\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\1. Sum Matrix Elements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

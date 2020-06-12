@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Primary Diagonal\\Primary Diagonal.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\Primary Diagonal.csproj",
       "projectName": "Primary Diagonal",
-      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Primary Diagonal\\Primary Diagonal.csproj",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\Primary Diagonal.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\Primary Diagonal\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

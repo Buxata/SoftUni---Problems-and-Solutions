@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\Primary Diagonal.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\Square with Maximum Sum.csproj": {}
   },
   "projects": {
-    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\Primary Diagonal.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\Square with Maximum Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\Primary Diagonal.csproj",
-        "projectName": "Primary Diagonal",
-        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\Primary Diagonal.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\Square with Maximum Sum.csproj",
+        "projectName": "Square with Maximum Sum",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\Square with Maximum Sum.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\3. Primary Diagonal\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Multidimensional Arrays\\5. Square with Maximum Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
