@@ -1,0 +1,12 @@
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\bin\Debug\netcoreapp3.1\Symbol in a Matrix.exe
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\bin\Debug\netcoreapp3.1\Symbol in a Matrix.deps.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\bin\Debug\netcoreapp3.1\Symbol in a Matrix.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\bin\Debug\netcoreapp3.1\Symbol in a Matrix.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\bin\Debug\netcoreapp3.1\Symbol in a Matrix.dll
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\bin\Debug\netcoreapp3.1\Symbol in a Matrix.pdb
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\obj\Debug\netcoreapp3.1\Symbol in a Matrix.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\obj\Debug\netcoreapp3.1\Symbol in a Matrix.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\obj\Debug\netcoreapp3.1\Symbol in a Matrix.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\obj\Debug\netcoreapp3.1\Symbol in a Matrix.dll
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\obj\Debug\netcoreapp3.1\Symbol in a Matrix.pdb
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Symbol in a Matrix\obj\Debug\netcoreapp3.1\Symbol in a Matrix.genruntimeconfig.cache

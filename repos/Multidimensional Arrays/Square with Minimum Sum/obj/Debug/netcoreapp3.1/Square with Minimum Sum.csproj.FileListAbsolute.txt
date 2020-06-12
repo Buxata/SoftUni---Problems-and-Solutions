@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\bin\Debug\netcoreapp3.1\Square with Minimum Sum.exe
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\bin\Debug\netcoreapp3.1\Square with Minimum Sum.deps.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\bin\Debug\netcoreapp3.1\Square with Minimum Sum.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\bin\Debug\netcoreapp3.1\Square with Minimum Sum.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\bin\Debug\netcoreapp3.1\Square with Minimum Sum.dll
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\bin\Debug\netcoreapp3.1\Square with Minimum Sum.pdb
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.dll
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.pdb
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\Square with Minimum Sum\obj\Debug\netcoreapp3.1\Square with Minimum Sum.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp3.1\1 Sum Matrix Elements.exe
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp3.1\1 Sum Matrix Elements.deps.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp3.1\1 Sum Matrix Elements.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp3.1\1 Sum Matrix Elements.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp3.1\1 Sum Matrix Elements.dll
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\bin\Debug\netcoreapp3.1\1 Sum Matrix Elements.pdb
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.dll
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.pdb
+H:\Documents\Visual\SoftUni\repos\Multidimensional Arrays\1 Sum Matrix Elements\obj\Debug\netcoreapp3.1\1 Sum Matrix Elements.genruntimeconfig.cache
