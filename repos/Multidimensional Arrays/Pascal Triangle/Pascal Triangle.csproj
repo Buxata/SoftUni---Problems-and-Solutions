@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Jagged-Array_Modification</RootNamespace>
+    <RootNamespace>Pascal_Triangle</RootNamespace>
   </PropertyGroup>
 
 </Project>
