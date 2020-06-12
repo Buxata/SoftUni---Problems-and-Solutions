@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Stacks_and_Queues
+namespace Reverse_Strings
 {
     class Program
     {

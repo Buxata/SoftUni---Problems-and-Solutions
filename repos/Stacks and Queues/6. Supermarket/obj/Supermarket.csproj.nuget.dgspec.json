@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Supermarket\\Supermarket.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\6. Supermarket\\Supermarket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Supermarket\\Supermarket.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\6. Supermarket\\Supermarket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Supermarket\\Supermarket.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\6. Supermarket\\Supermarket.csproj",
         "projectName": "Supermarket",
-        "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Supermarket\\Supermarket.csproj",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\6. Supermarket\\Supermarket.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Supermarket\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\6. Supermarket\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Hot potato\\Hot potato.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\7. Hot potato\\Hot potato.csproj",
       "projectName": "Hot potato",
-      "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Hot potato\\Hot potato.csproj",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\7. Hot potato\\Hot potato.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Hot potato\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\7. Hot potato\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

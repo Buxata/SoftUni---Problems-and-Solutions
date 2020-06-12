@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Simple Calculator\\Simple Calculator.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\3. Simple Calculator\\Simple Calculator.csproj",
       "projectName": "Simple Calculator",
-      "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Simple Calculator\\Simple Calculator.csproj",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\3. Simple Calculator\\Simple Calculator.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Simple Calculator\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\3. Simple Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

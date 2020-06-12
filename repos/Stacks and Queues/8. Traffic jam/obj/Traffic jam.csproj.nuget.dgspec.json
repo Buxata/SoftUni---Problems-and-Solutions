@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Traffic jam\\Traffic jam.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\8. Traffic jam\\Traffic jam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Traffic jam\\Traffic jam.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\8. Traffic jam\\Traffic jam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Traffic jam\\Traffic jam.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\8. Traffic jam\\Traffic jam.csproj",
         "projectName": "Traffic jam",
-        "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Traffic jam\\Traffic jam.csproj",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\8. Traffic jam\\Traffic jam.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Traffic jam\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\8. Traffic jam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

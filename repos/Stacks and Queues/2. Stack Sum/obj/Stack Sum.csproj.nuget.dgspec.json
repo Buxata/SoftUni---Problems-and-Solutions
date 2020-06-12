@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stack Sum\\Stack Sum.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\2. Stack Sum\\Stack Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stack Sum\\Stack Sum.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\2. Stack Sum\\Stack Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stack Sum\\Stack Sum.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\2. Stack Sum\\Stack Sum.csproj",
         "projectName": "Stack Sum",
-        "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stack Sum\\Stack Sum.csproj",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\2. Stack Sum\\Stack Sum.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stack Sum\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\2. Stack Sum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

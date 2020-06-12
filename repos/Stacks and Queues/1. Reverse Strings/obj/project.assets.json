@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stacks and Queues\\Stacks and Queues.csproj",
-      "projectName": "Stacks and Queues",
-      "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stacks and Queues\\Stacks and Queues.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\1. Reverse Strings\\Reverse strings.csproj",
+      "projectName": "Reverse strings",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\1. Reverse Strings\\Reverse strings.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Stacks and Queues\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\1. Reverse Strings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

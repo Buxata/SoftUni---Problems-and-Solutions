@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Print even numbers\\Print even numbers.csproj",
+      "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\5. Print even numbers\\Print even numbers.csproj",
       "projectName": "Print even numbers",
-      "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Print even numbers\\Print even numbers.csproj",
+      "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\5. Print even numbers\\Print even numbers.csproj",
       "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\Print even numbers\\obj\\",
+      "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\5. Print even numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\decimal to binary\\decimal to binary.csproj": {}
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\optional 4. Decimal to Binary\\decimal to binary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\decimal to binary\\decimal to binary.csproj": {
+    "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\optional 4. Decimal to Binary\\decimal to binary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\decimal to binary\\decimal to binary.csproj",
+        "projectUniqueName": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\optional 4. Decimal to Binary\\decimal to binary.csproj",
         "projectName": "decimal to binary",
-        "projectPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\decimal to binary\\decimal to binary.csproj",
+        "projectPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\optional 4. Decimal to Binary\\decimal to binary.csproj",
         "packagesPath": "C:\\Users\\BuxaTa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BuxaTa\\source\\repos\\Stacks and Queues\\decimal to binary\\obj\\",
+        "outputPath": "H:\\Documents\\Visual\\SoftUni\\repos\\Stacks and Queues\\optional 4. Decimal to Binary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"

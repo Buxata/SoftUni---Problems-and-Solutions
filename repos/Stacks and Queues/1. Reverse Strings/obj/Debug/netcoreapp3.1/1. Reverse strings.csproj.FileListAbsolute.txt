@@ -1,0 +1,12 @@
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse strings.exe
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse strings.deps.json
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse strings.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse strings.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse strings.dll
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\bin\Debug\netcoreapp3.1\1. Reverse strings.pdb
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse strings.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse strings.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse strings.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse strings.dll
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse strings.pdb
+H:\Documents\Visual\SoftUni\repos\Stacks and Queues\1. Reverse Strings\obj\Debug\netcoreapp3.1\1. Reverse strings.genruntimeconfig.cache
