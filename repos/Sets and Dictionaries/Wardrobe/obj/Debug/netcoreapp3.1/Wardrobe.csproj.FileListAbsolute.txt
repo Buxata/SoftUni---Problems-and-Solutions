@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.exe
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.deps.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\bin\Debug\netcoreapp3.1\Wardrobe.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Wardrobe\obj\Debug\netcoreapp3.1\Wardrobe.genruntimeconfig.cache

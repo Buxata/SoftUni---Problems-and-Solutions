@@ -1,0 +1,5 @@
+﻿  Snake Moves.cpp
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Snake Moves\Snake Moves.cpp(15,26): warning C4018: '<': signed/unsigned mismatch
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Snake Moves\Snake Moves.cpp(20,34): warning C4018: '<': signed/unsigned mismatch
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Snake Moves\Snake Moves.cpp(36,34): warning C4018: '<': signed/unsigned mismatch
+  Snake Moves.vcxproj -> H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Debug\Snake Moves.exe

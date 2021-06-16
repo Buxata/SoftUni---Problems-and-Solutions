@@ -1,0 +1,12 @@
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\bin\Debug\netcoreapp3.1\Unique_usernames.exe
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\bin\Debug\netcoreapp3.1\Unique_usernames.deps.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\bin\Debug\netcoreapp3.1\Unique_usernames.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\bin\Debug\netcoreapp3.1\Unique_usernames.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\bin\Debug\netcoreapp3.1\Unique_usernames.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\bin\Debug\netcoreapp3.1\Unique_usernames.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\obj\Debug\netcoreapp3.1\Unique_usernames.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\obj\Debug\netcoreapp3.1\Unique_usernames.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\obj\Debug\netcoreapp3.1\Unique_usernames.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\obj\Debug\netcoreapp3.1\Unique_usernames.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\obj\Debug\netcoreapp3.1\Unique_usernames.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Unique_usernames\obj\Debug\netcoreapp3.1\Unique_usernames.genruntimeconfig.cache

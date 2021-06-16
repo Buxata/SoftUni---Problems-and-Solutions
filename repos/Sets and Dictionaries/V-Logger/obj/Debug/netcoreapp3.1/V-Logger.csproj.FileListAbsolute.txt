@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\bin\Debug\netcoreapp3.1\V-Logger.exe
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\bin\Debug\netcoreapp3.1\V-Logger.deps.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\bin\Debug\netcoreapp3.1\V-Logger.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\bin\Debug\netcoreapp3.1\V-Logger.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\bin\Debug\netcoreapp3.1\V-Logger.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\bin\Debug\netcoreapp3.1\V-Logger.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\V-Logger\obj\Debug\netcoreapp3.1\V-Logger.genruntimeconfig.cache

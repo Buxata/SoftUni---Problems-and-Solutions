@@ -1,0 +1,4 @@
+﻿  Find_Symbol_In_Matrix.cpp
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Find_Symbol_In_Matrix\Find_Symbol_In_Matrix.cpp(37,23): warning C4018: '<': signed/unsigned mismatch
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Find_Symbol_In_Matrix\Find_Symbol_In_Matrix.cpp(38,27): warning C4018: '<': signed/unsigned mismatch
+  Find_Symbol_In_Matrix.vcxproj -> H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Debug\Find_Symbol_In_Matrix.exe

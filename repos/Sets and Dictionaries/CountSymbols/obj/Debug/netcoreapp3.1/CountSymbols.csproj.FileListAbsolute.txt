@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.exe
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.deps.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\bin\Debug\netcoreapp3.1\CountSymbols.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\CountSymbols\obj\Debug\netcoreapp3.1\CountSymbols.genruntimeconfig.cache

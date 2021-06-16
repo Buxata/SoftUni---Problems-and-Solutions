@@ -1,0 +1,4 @@
+﻿  Multy_Dimensional.cpp
+H:\Documents\Visual\SoftUni\repos\Advanced - Judge Assignment 2\Multy_Dimensional\Multy_Dimensional.cpp(37,26): warning C4018: '<': signed/unsigned mismatch
+H:\Documents\Visual\SoftUni\repos\Advanced - Judge Assignment 2\Multy_Dimensional\Multy_Dimensional.cpp(39,30): warning C4018: '<': signed/unsigned mismatch
+  Multy_Dimensional.vcxproj -> H:\Documents\Visual\SoftUni\repos\Advanced - Judge Assignment 2\Debug\Multy_Dimensional.exe

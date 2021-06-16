@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.exe
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.deps.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.runtimeconfig.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.runtimeconfig.dev.json
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\bin\Debug\netcoreapp3.1\Sets of Elements.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.csprojAssemblyReference.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.csproj.CoreCompileInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.AssemblyInfoInputs.cache
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.AssemblyInfo.cs
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.dll
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.pdb
+H:\Documents\Visual\SoftUni\repos\Sets and Dictionaries\Sets of Elements\obj\Debug\netcoreapp3.1\Sets of Elements.genruntimeconfig.cache

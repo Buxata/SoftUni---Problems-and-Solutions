@@ -1,0 +1,4 @@
+﻿  Sum_Matrix_Columns.cpp
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Sum_Matrix_Columns\Sum_Matrix_Columns.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Sum_Matrix_Columns\Sum_Matrix_Columns.cpp(23,24): warning C4018: '<': signed/unsigned mismatch
+  Sum_Matrix_Columns.vcxproj -> H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Debug\Sum_Matrix_Columns.exe

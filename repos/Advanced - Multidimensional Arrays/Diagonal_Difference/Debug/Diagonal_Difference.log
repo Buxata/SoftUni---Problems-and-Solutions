@@ -1,0 +1,4 @@
+﻿  Diagonal_Difference.cpp
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Diagonal_Difference\Diagonal_Difference.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Diagonal_Difference\Diagonal_Difference.cpp(21,24): warning C4018: '<': signed/unsigned mismatch
+  Diagonal_Difference.vcxproj -> H:\Documents\Visual\SoftUni\repos\Advanced - Multidimensional Arrays\Debug\Diagonal_Difference.exe
