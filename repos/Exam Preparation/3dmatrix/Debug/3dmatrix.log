@@ -1,0 +1,3 @@
+﻿  3dmatrix.cpp
+H:\Documents\Visual\SoftUni\repos\Exam Preparation\3dmatrix\3dmatrix.cpp(63,26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  3dmatrix.vcxproj -> H:\Documents\Visual\SoftUni\repos\Exam Preparation\Debug\3dmatrix.exe
